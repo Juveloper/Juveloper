@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Justin
 
-<!--
-**Juveloper/Juveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A motivated and passionate **Software Developer** on my journey toward becoming a **Full-Stack Developer**.
+I enjoy building clean, scalable applications — from backend logic to user-friendly interfaces.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🌱 Currently improving my skills in **Java**, **Flutter**, and full-stack development
+* 💡 I love solving real problems with code and constantly learning new technologies
+* 🎯 My goal: Become a strong, versatile **Full-Stack Developer**
+* 🚀 Always open to feedback, collaboration, and new challenges
+
+---
+
+## 🌟 Featured Projects
+
+### 📱 Costa Rica Travel App (Flutter)
+
+🔗 Repo: [https://github.com/Juveloper/costarica_reise](https://github.com/Juveloper/costarica_reise)
+
+---
+
+### 🎙️ WOSAssist App (Full-Stack)
+
+🔗 Repo: [https://github.com/Juveloper/WOSAssist](https://github.com/Juveloper/WOSAssist)
+
+---
+
+## 🛠 Tech Stack
+
+### **Main Languages**
+
+* Java ☕
+* Dart
+
+### **Frameworks & Tools**
+
+* Flutter
+* Git & GitHub
+* VS Code & Android Studio
+
+---
+
+## 📫 Contact
+
+* ✉️ Email: *(your choice, if you want one added)*
+* 🌐 GitHub: [https://github.com/Juveloper](https://github.com/Juveloper)
+
+---
+
+## ✨ Fun Fact
+
+I build apps not just to learn, but because it's something I genuinely love doing.
