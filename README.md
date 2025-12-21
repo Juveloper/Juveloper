@@ -33,7 +33,7 @@ I enjoy developing clean and user-friendly applications.
 
 ### **Main Languages**
 
-* Java ☕
+* Java 
 * Dart
 
 ### **Frameworks & Tools**
@@ -51,6 +51,6 @@ I enjoy developing clean and user-friendly applications.
 
 ---
 
-## ✨ Fun Fact
+## ✨ Fact
 
 I build apps not just to learn, but because it's something I genuinely love doing.
