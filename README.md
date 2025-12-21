@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Justin
 
-A motivated and passionate **Software Developer** on my journey toward becoming a **Full-Stack Developer**.
-I enjoy building clean, scalable applications — from backend logic to user-friendly interfaces.
+A motivated and young **software developer** on the path to becoming a **full-stack developer**.
+I enjoy developing clean and user-friendly applications.
 
 ---
 
