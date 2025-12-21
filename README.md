@@ -12,6 +12,13 @@ I enjoy developing clean and user-friendly applications.
 * 🎯 My goal: Become a strong, versatile **Full-Stack Developer**
 * 🚀 Always open to feedback, collaboration, and new challenges
 
+
+---
+
+### 🎙️ WOSAssist App (Full-Stack)
+
+🔗 Repo: [https://github.com/Juveloper/WOSAssist](https://github.com/Juveloper/WOSAssist)
+
 ---
 
 ## 🌟 Featured Projects
@@ -19,12 +26,6 @@ I enjoy developing clean and user-friendly applications.
 ### 📱 Costa Rica Travel App (Flutter)
 
 🔗 Repo: [https://github.com/Juveloper/costarica_reise](https://github.com/Juveloper/costarica_reise)
-
----
-
-### 🎙️ WOSAssist App (Full-Stack)
-
-🔗 Repo: [https://github.com/Juveloper/WOSAssist](https://github.com/Juveloper/WOSAssist)
 
 ---
 
