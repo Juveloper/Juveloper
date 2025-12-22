@@ -37,6 +37,8 @@ I enjoy developing clean and user-friendly applications.
 
 ### **Main Languages**
 
+*HTML
+*CSS
 * Java 
 * Dart
 
