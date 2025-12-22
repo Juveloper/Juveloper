@@ -14,6 +14,7 @@ I enjoy developing clean and user-friendly applications.
 
 
 ---
+## 🌟 Featured Projects
 
 ### 😎 Portfolio
 🔗 Repo: [https://github.com/Juveloper/WOSAssist](https://github.com/Juveloper/WOSAssist)
@@ -25,8 +26,6 @@ I enjoy developing clean and user-friendly applications.
 🔗 Repo: [https://github.com/Juveloper/WOSAssist](https://github.com/Juveloper/WOSAssist)
 
 ---
-
-## 🌟 Featured Projects
 
 ### 📱 Costa Rica Travel App (Flutter)
 
