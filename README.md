@@ -15,6 +15,11 @@ I enjoy developing clean and user-friendly applications.
 
 ---
 
+### 😎 Portfolio
+🔗 Repo: [https://github.com/Juveloper/WOSAssist](https://github.com/Juveloper/WOSAssist)
+
+---
+
 ### 🎙️ WOSAssist App (Full-Stack)
 
 🔗 Repo: [https://github.com/Juveloper/WOSAssist](https://github.com/Juveloper/WOSAssist)
