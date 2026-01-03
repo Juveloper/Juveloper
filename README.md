@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Justin
 
 A motivated and young **software developer** on the path to becoming a **full-stack developer**.
-I enjoy developing clean and user-friendly applications.
+I enjoy developing and learning all the time.
 
 ---
 
@@ -9,8 +9,8 @@ I enjoy developing clean and user-friendly applications.
 
 * 🌱 Currently improving my skills in **Java**, **Flutter**, and full-stack development
 * 💡 I love solving real problems with code and constantly learning new technologies
-* 🎯 My goal: Become a strong, versatile **Full-Stack Developer**
-* 🚀 Always open to feedback, collaboration, and new challenges
+* 🎯 My goal: Become a strong **Full-Stack Developer**
+* 🚀 Always open to feedback, and new challenges
 
 
 ---
@@ -37,8 +37,8 @@ I enjoy developing clean and user-friendly applications.
 
 ### **Main Languages**
 
-*HTML
-*CSS
+* HTML
+* CSS
 * Java 
 * Dart
 
@@ -52,7 +52,7 @@ I enjoy developing clean and user-friendly applications.
 
 ## 📫 Contact
 
-* ✉️ Email: *(your choice, if you want one added)*
+* ✉️ Email: justin4A@outlook.de
 * 🌐 GitHub: [https://github.com/Juveloper](https://github.com/Juveloper)
 
 ---
